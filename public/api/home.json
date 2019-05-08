@@ -1,0 +1,54 @@
+{
+    "success":true,
+    "data":{
+        "topicList":[
+            {
+            "id":1,
+            "title":"@IT·互联网",
+            "imgUrl":"//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+            },
+            {
+            "id":2,
+            "title":"摄影",
+            "imgUrl":"//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+            }
+        ],
+        "listItem":[
+            {
+                "id":1,
+                "imgUrl":"//upload-images.jianshu.io/upload_images/1704158-a2b96b25eba9c6b5.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "title":"6个帮助所有小白写作者投稿赚钱的公众号！",
+                "abstract":"01 大家都知道这是一个真正的写作时代，只要你想动笔，总有各个方面的素材能让你成文。当然对于写字者而言，能将自己的文字发表在公众号得到更多人的认..."
+            },
+            {
+                "id":2,
+                "imgUrl":"//upload-images.jianshu.io/upload_images/12631447-aeb8b16e23fc2592?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+                "title":"28年前，刘嘉玲遭绑架拍照片，当年的绑匪下场如何呢？",
+                "abstract":"香港电影最出名的时代，有三种类型的电影最受欢迎：动作片、黑帮片以及三级片，这与当时的时代背景有很大的关系。黑帮片是香港电影的金字招牌，像《古惑仔..."
+            }
+        ],
+        "recommendList":[
+            {
+                "id":1,
+                "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+            },
+            {
+                "id":2,
+                "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+            },
+            {
+                "id":3,
+                "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+            },
+            {
+                "id":4,
+                "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+            },
+            {
+                "id":5,
+                "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+            }
+        ]
+
+    }
+}
